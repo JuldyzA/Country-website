@@ -1,0 +1,11 @@
+@media (min-width: 50em) {
+	
+	.page-banner div{
+		background-color: #40ada2ab;
+		backdrop-filter: blur(0.5px);
+	
+	}
+}
+
+
+
